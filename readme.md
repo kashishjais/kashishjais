@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Code is like humor.When you have to explain,its bad.
 
-  Happy Coding!!☺😊**
+  Happy Coding!!**☺😊
 
 ## 🚀 Languages and Tools:
 

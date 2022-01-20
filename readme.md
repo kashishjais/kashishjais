@@ -74,6 +74,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kashish-jaiswal-a1bab1202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href ="https://www.hackerrank.com/kashishjais23"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
 
 </p>
 

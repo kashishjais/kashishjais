@@ -73,10 +73,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "linkedin.com/in/kashish-jaiswal-a1bab1202"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar">
-<a href = "https://www.instagram.com/subhamraoniar/">
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA">
+<a href = "https://www.linkedin.com/in/kashish-jaiswal-a1bab1202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 

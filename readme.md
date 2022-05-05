@@ -6,9 +6,9 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Data Science & Machine Learning Projects**
 
-- 🌱 I’m currently learning **C++,Python,SQL,PHP,Data Structures and Algorithms,**
+- 🌱 I’m currently learning **C++,Python,SQL,ML,Data Structures and Algorithms,**
 
 - 👯 I’m looking to collaborate on **AI and ML Projects**
 

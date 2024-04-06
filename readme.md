@@ -1,16 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hiii fellow developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kashish</h1>
-<h3 align="center">Currently am a Computer Science student persuing my Batchelor's degree</h3>
+<h3 align="center">Currently am a working professional in software engineering domain</h3>
 
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **Data Science & Machine Learning Projects**
+- 🔭 I’m currently working on **MERN & MEAN stack Projects**
 
-- 🌱 I’m currently learning **C++,Python,SQL,ML,Data Structures and Algorithms,**
+- 🌱 I’m currently learning **Java Full stack development**
 
-- 👯 I’m looking to collaborate on **AI and ML Projects**
+- 👯 I’m looking to collaborate on **JAVA Projects**
 
 - 📫 How to reach me **kashishjais23@gmail.com**
 
